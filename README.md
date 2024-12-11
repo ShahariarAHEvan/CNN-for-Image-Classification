@@ -25,7 +25,15 @@ The main objectives of this project are:
 * Provide functionality to classify new images provided in the "single_prediction" folder.
 The project leverages TensorFlow's integration with Keras, simplifying the process of designing and training the CNN model.
 
-## 3. File Descriptions
+## 3. Dataset
+The dataset used in this project can be accessed here:
+- (https://drive.google.com/drive/folders/1fEorPAXlNSzUGMNfpXNXM0Nr2F0pdNRk?usp=drive_link)
+
+### Instructions:
+1. Download the dataset from the links above.
+2. Unzip the files and place them in the `dataset/` folder.
+
+## 4. File Descriptions
 This project contains the following files and folders:
 
 * CNN_Image_Classification.ipynb: The main Jupyter Notebook file containing the code and analysis.
@@ -33,7 +41,7 @@ This project contains the following files and folders:
 * single_prediction/: A folder where new images can be placed for model prediction.
 * README.md: Documentation for the project.
 
-## 4. Results
+## 5. Results
 The trained CNN model achieved high accuracy in classifying images of cats and dogs. The main findings of this project are:
 
 * Training Dataset: 4000 images of cats and 4000 images of dogs.
@@ -43,6 +51,6 @@ The trained CNN model achieved high accuracy in classifying images of cats and d
   * The model performed well in classifying new images placed in the "single_prediction" folder.
 Further details can be found in the accompanying Medium post: Medium Article link.
 
-## 5. Licensing, Authors, Acknowledgements, etc.
+## 6. Licensing, Authors, Acknowledgements, etc.
 * Code and documentation were developed by the project author.
 * Acknowledgements to TensorFlow and Keras for providing tools for deep learning.
