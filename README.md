@@ -49,6 +49,7 @@ The trained CNN model achieved high accuracy in classifying images of cats and d
 * Model Performance:
   * High accuracy was achieved on both the training and testing datasets.
   * The model performed well in classifying new images placed in the "single_prediction" folder.
+
 Further details can be found in the accompanying Medium post: [Using CNN to Classify Images of Cats and Dogs: A Deep Learning Journey] (https://medium.com/@shahariarahevan/using-cnn-to-classify-images-of-cats-and-dogs-a-deep-learning-journey-e8be35acb70d)
 
 ## 6. Licensing, Authors, Acknowledgements, etc.
